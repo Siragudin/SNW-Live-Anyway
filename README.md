@@ -54,3 +54,8 @@
 ---
 
 > ### **Не играй в мирах. Живи в них.**
+>
+> ## License
+This project is licensed under the Creative Commons BY-NC-ND 4.0 License.  
+© 2026 Siragudin Guseynov — All rights reserved.
+
