@@ -4,6 +4,12 @@
 [![Year: 2026](https://img.shields.io/badge/Year-2026-blue.svg)]()
 [![Status: Conceptual](https://img.shields.io/badge/Status-Conceptual%20Design-orange.svg)]()
 
+<p align="center">
+  <img src="images/icon.png" 
+       alt="SNW: Live Anyway — Дикая территория" 
+       width="700"
+       style="border-radius: 8px; max-width: 100%;">
+</p>
 > **"I am the one who builds the new world."**
 > A radical, hardcore sandbox in the post-apocalyptic survival-simulator genre, built on the principles of **Simulation-Native Worlds (SNW)**. Here the digital environment exists on its own terms, and history is born from the emergent actions of players — free of game-design crutches and linear scripts.
 
