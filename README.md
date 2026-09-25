@@ -1,96 +1,120 @@
-# 🌍 SNW: Live Anyway — Conceptual Document
+# 🌍 SNW: Live Anyway — Concept Document
 
-[![License: CC BY-NC-ND 4.0](https://shields.io)](https://creativecommons.org)
-[![Year: 2026](https://shields.io)]()
-[![Status: Conceptual](https://shields.io)]()
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Year: 2026](https://img.shields.io/badge/Year-2026-blue.svg)]()
+[![Status: Conceptual](https://img.shields.io/badge/Status-Conceptual%20Design-orange.svg)]()
 
-> **"I am the one who builds the new world."**  
-> A radical, hardcore sandbox in the post-apocalyptic survival simulator genre, built on the principles of **Simulation-Native Worlds (SNW)**. Here, the digital environment exists autonomously, and history is forged through the emergent actions of players, entirely free from game design crutches and linear scripts.
+> **"I am the one who builds the new world."**
+> A radical, hardcore sandbox in the post-apocalyptic survival-simulator genre, built on the principles of **Simulation-Native Worlds (SNW)**. Here the digital environment exists on its own terms, and history is born from the emergent actions of players — free of game-design crutches and linear scripts.
 
 ---
 
-## 📑 Table of Contents
-* [🎯 Core Concept and Philosophy](#-core-concept-and-philosophy)
-* [🗺️ The Infinite Hex Map](#️-the-infinite-hex-map)
-* [🛡️ Security Ring Breakdown](#️-security-ring-breakdown)
+## 📑 Contents
+* [🎯 Core Idea and Philosophy](#-core-idea-and-philosophy)
+* [🗺️ The Infinite Hex-Cell Map](#️-the-infinite-hex-cell-map)
+* [🛡️ Differentiation of the Safety Rings](#️-differentiation-of-the-safety-rings)
 * [💀 Progression, Death, and Insurance](#-progression-death-and-insurance)
-* [🏛️ Valhalla: The Pantheon of Fallen Legends](#️-valhalla-the-pantheon-of-fallen-legends)
-* [⚖️ Might vs. Magic (Politics and Laws)](#️-might-vs-magic-politics-and-laws)
-* :factories: [Economics, Crafting, and Logistics](#-economics-crafting-and-logistics)
-* [🚀 The Evolutionary Path of Civilizational Fractal](#-the-evolutionary-path-of-civilizational-fractal)
+* [⚖️ Might vs. Magic (Politics and Law)](#️-might-vs-magic-politics-and-law)
+* [🏭 Economy, Crafting, and Logistics](#-economy-crafting-and-logistics)
+* [🚀 The Evolutionary Vector of the Civilization Fractal](#-the-evolutionary-vector-of-the-civilization-fractal)
 
 ---
 
-## 🎯 Core Concept and Philosophy
+## 🎯 Core Idea and Philosophy
 
-In the modern gaming industry, the concept of freedom has been replaced by a choice between pre-programmed rails. **SNW: Live Anyway** eliminates this crutch entirely:
+In today's industry, the notion of freedom has been replaced by a choice among pre-programmed rails. **SNW: Live Anyway** does away with that crutch:
 
-* **The World as a System, Not a Script:** There are no story triggers. There are only the basic physical properties of matter and emergent cause-and-effect relationships.
-* **Anti-Toxic Architecture:** Once a player is killed, **their corpse physically cannot be looted**. This completely eradicates mindless cruelty for the sake of gear. PvP is preserved strictly for global objectives: ideology, geopolitics, vengeance, and the control of strategic zones.
-* **Life Without an Observer:** When you log out, the simulation of air, materials, NPCs, and the economy continues uninterrupted.
-
----
-
-## 🗺️ The Infinite Hex Map
-
-The global world map is organized around **dynamic fractal expansion**:
-1. Each hexagonal cell (**District**) is physically an **isolated compute server**. It only loads when players physically cross its borders.
-2. **Server Limits Prevent Overcrowding:** Total server capacity splits into a **20% Resident Quota** (guaranteeing instant, unobstructed entry home for citizens) and an **80% Visitor Slot** (queued entry for transit guests via a virtual queue).
-3. **The Honest Weight of Distance:** To get from District #1 to District #3, a player must physically cross the deadly territory of District #2 from border to border, either on foot or by vehicle. Long-haul expeditions turn into lethal, high-stakes military campaigns.
+* **The world as a system, not a script:** There are no story triggers. There are only the basic physical properties of matter and emergent cause-and-effect relationships.
+* **Anti-toxic architecture:** After a player is killed, **their corpse cannot physically be looted**. This completely eliminates senseless violence for loot. PvP survives only in service of larger goals: ideology, geopolitics, revenge, and control of strategic zones.
+* **Life without an observer:** When you log off, the simulation of air, materials, NPCs, and the economy continues uninterrupted.
 
 ---
 
-## 🛡️ Security Ring Breakdown
+## 🗺️ The Infinite Hex-Cell Map
 
-The space of each District is split radially into four zones, each governed by its own strict rules:
+The global world is organized on the principle of **dynamic fractal expansion**:
+1. Each hexagonal cell (a **District**) is an **isolated compute server**. It loads only when players cross its border.
+2. **Server limits prevent overcrowding:** capacity is split between a **20% Resident Quota** (permanent, instant entry for citizens) and an **80% Visitor Slot** (entry for transient guests via a virtual queue).
+3. **Honest distance weight:** to travel from District No. 1 to District No. 3, you must cross the dangerous District No. 2 on foot or by vehicle, from edge to edge. Long-distance expeditions become deadly campaigns.
 
-| Ring | Name | Protection Level & Character | Interface & Code Rules |
+---
+
+## 🛡️ Differentiation of the Safety Rings
+
+Each District's space is radially divided into 4 zones, each with its own rules:
+
+| Ring | Name | Level and Nature of Protection | Interface Rules |
 | :--- | :--- | :--- | :--- |
-| **Ring 1** | **Citadel (City)** | **Absolute security**. A zone of total control by the AI Mayor (in District Zero) or the ruling Community. | The interface architecture code-locks weapons. Crime is physically impossible. |
-| **Ring 2** | **Suburb / Industrial Zone** | **Conditional safety**. Monitored and protected by heavy automated turrets. Occasional zombie breaches. | Drawing weapons and firing is fully permitted. Any deliberate wounding or killing of another player triggers instant annihilation by turrets. |
-| **Ring 3** | **Gray Zone** | **Partial protection**. The AI Mayor does not physically control this land but scans the territory via satellites. | Any logged attack automatically flags the aggressor with a lifetime **Persona Non Grata** status (shot on sight by turrets upon approaching Rings 1 and 2). |
-| **Ring 4** | **Wildlands** | **Absolute chaos** (covers 80–90% of the District). A land of total lawlessness, swarm mutants, and high-value unlooted salvage. | Only the law of the strong, raw firepower, and tactical instinct apply out here. |
+| **Ring 1** | **Citadel (City)** | **Absolute safety**. A zone under the total control of the AI-Mayor (in the Zero District) or the Community. | Weapons are blocked at the code level. Crimes are impossible. |
+| **Ring 2** | **Suburb / Industrial Zone** | **Conditional safety**. Guarded by heavy automated turrets. Zombies occasionally break through. | Weapons are permitted. Deliberately wounding or killing a player results in instant annihilation by the turrets. |
+| **Ring 3** | **Gray Zone** | **Partial protection**. The AI-Mayor does not physically control the ground but maintains satellite surveillance. | Any attack imposes a permanent **Persona Non Grata** status (shot on sight by turrets when approaching Rings 1 and 2). |
+| **Ring 4** | **Wild Territory** | **Absolute chaos** (80–90% of the District's area). A land of total lawlessness, mutants, and valuable loot. | Only the law of the strong applies — firepower and tactical instinct. |
 
 ---
 
 ## 💀 Progression, Death, and Insurance
 
-* **True Progression (Levels Up the Human, Not the Avatar):** Artificial character levels, stat points, and passive skill trees are completely absent. The only thing that matters is the public Action Log tracking your lifetime achievements.
-* **Physical Crafting:** Assembling advanced gear is not just clicking a button in a menu. It is a physical process demanding absolute focus and manual dexterity from the person at the keyboard. A single mistake or a fumbled hand results in a **defective, botched item** and permanent loss of raw materials.
-* **Permanent Death:** The cost of a mistake is as high as it gets. Upon death, the character is permanently deleted from the server. The only barrier separating a character from deletion is **Medical Evacuation (Insurance)**:
-  * If the player's PDA holds an active **Med-Card for the current District**, taking fatal damage simply knocks them unconscious, and a drone evacuates them to the Citadel hospital bed with their full backpack and loot preserved.
-  * In District Zero, Med-Cards are purchased with standard in-game currency. In Private Districts, the owning Community must keep the Med-Center reactor stocked with rare **disposable medical nuclear cells**, otherwise evacuation drones physically cannot launch.
-  * Using a District Zero Med-Card inside a Private District is technically prohibited.
+* **It's the person who levels up, not the character:** There are no artificial levels, classes, or passive-skill trees. Only the public record of your actions matters.
+* **Physical crafting:** Assembling advanced gear isn't a menu click. It's a process that demands attention and manual dexterity from the player at the keyboard. A mistake or a shaky hand causes a **defect factor** and the loss of materials.
+* **Permanent death:** The cost of a mistake is maximal. Upon death, the character is deleted forever. The only safeguard is **Medical Evacuation (Insurance)**:
+  * If an active **Medical Card for that District** is in your PDA, losing consciousness triggers a drone that carries your character to a Medical Center bed, with the loot fully preserved.
+  * In the Zero District, the Medical Card is purchased with standard currency. In Private Districts, the Community must supply the Medical Center's reactor with rare, single-use **medical-nuclear batteries**, or the drones physically cannot take off.
+  * Using Zero District insurance within a Private District is technically forbidden.
+
+---
+## Valhalla:
+
+A new location — a museum.
+Where the ghosts of fallen legendary players will rest.
+---
+## ⚖️ Might vs. Magic (Politics and Law)
+
+In **Private Districts** created by Communities (clans), the AI-Mayor holds no power. The head of the Community is recognized as the **District Owner**, with total legislative authority exercised through decrees in the PDA.
+
+> **The triumph of emergence:** the system never converts a ruler's laws into magical, system-enforced bans.
+
+If the Leader bans outside bases, the game code does *not* disable crafting. Any guerrilla group can secretly slip deep into the Wildlands of someone else's cell and build an illegal Settlement there. If the Community is strong and its patrols with **frequency antennas** control the territory, it will find and blow up the violators by force. If the Community is weak, its bans in the PDA are worth nothing, and black markets will flourish on the fringes.
 
 ---
 
-## 🏛️ Valhalla: The Pantheon of Departed Legends
+## 🏭 Economy, Crafting, and Logistics
 
-A sacred, isolated memorial museum location where the ghosts of fallen legendary players reside.
-* **Rules of the Realm:** All gameplay actions—shooting, dealing damage, crafting, building, inventory management, and trading—are completely disabled. The sole purpose is contemplating the world's history and preserving player legacy.
-* **Manifestation of Ghosts:** A ghost is generated exclusively for players ranked in the Top 100 on the global leaderboard after their final permanent death or conscious account deletion. The spirit keeps an exact copy of the player's peak-era loadout.
-* **"The Legend's Confession":** The headline feature. Veterans record a 1–5 minute voice message detailing their success story, major economic crises, or alliances. When a visitor hits "Listen to Story," the location's ambient sound fades, and the monologue plays through an "otherworldly echo" filter.
----
-
-## ⚖️ Might vs. Magic (Politics and Laws)
-
-In **Private Districts** founded and managed by Communities (clans), the authority of the AI Mayor ceases to exist. The Community Leader is recognized by the system as the absolute **District Owner** holding total legislative power via PDA decrees.
-
-> **The Triumph of Emergence:** The system never turns a Leader's laws into a magical, hard-coded restriction.
-
-If the Owner decrees a total ban on outside construction, the game code *does not block* the crafting mechanic itself. Any guerrilla group can secretly march deep into the rival District's Wildlands and build an illegal Settlement. If the ruling Community is strong and its patrols with **Frequency Antennas** effectively monitor the land, it will physically locate and blow up the offenders. If the Community is weak, its PDA decrees are worthless, and thriving black markets will spring up on its outskirts.
-
----
-
-## 🏭 Economics, Crafting, and Logistics
-
-Raw materials (ores, uranium, timber) are unlimited in total quantity but heavily restricted in physical availability—extraction demands time, labor, and a strict linear production cycle (Ore ➔ Ingot ➔ Machined Barrel ➔ Finished Rifle).
+Resources in the world (ores, uranium, wood) are not limited in quantity, but are strictly limited in accessibility — extraction requires physical effort, time, and the building of production chains (Ore ➔ Ingot ➔ Gun Barrel ➔ Rifle).
 
 ### Four Crafting Tiers:
-1. **Manual Crafting:** Available anywhere directly via the PDA (limited to primitive torches and basic bandages).
-2. **Workbench:** The first stationary step. Handles complex starting-tier items and weapons but demands maximum manual concentration and time.
-3. **Workshop:** A professional node that automates and rapidly accelerates assembly, cutting down on manual player labor.
-4. **Factory / Plant:** Available exclusively inside Private Districts. Operates fully autonomously in assembly-line batches, directly utilizing the Citadel Warehouse.
-Macro-Logistics and Geopolitical Warfare:When two District Owners sign a supply contract via the PDA Exchange Terminal, the logistics system automatically handles delivery between server warehouses. Transit time follows a strict system formula: Time = X * N, where X is the base rate between adjacent neighbors and N is the exact number of intermediate hexes crossed.Economic Blockades: If a District along the shortest route closes its borders or bans transit for the destination server, the algorithm hits a wall and reroutes cargo the long way around through neutral hexes. This spikes the number of crossed hexes (N), heavily extending delivery time and skyrocketing final goods pricing, allowing strong clans to choke a neighbor's economy without firing a single bullet.🚀 The Evolutionary Path of Civilizational FractalThe vertical core gameplay loop of Live Anyway guides the user through a massive evolutionary chain:[Individual Survival (The Loner)]⬇[Cooperation & Circle of Trust (The Group)]⬇[Frequency Antenna Construction & Node Capture (The Settlement)]⬇[Capital Accumulation & Procedural Phase Transition]⬇[Private District Generation (Closed Mode / "Iron Curtain")]⬇[Monumental Relay Installation]⬇[Sovereign Open State & Expansion into a Macro-Civilization]Upon reaching peak industrial capacity, the patron Community establishes fair laws and affordable evacuation rates, converting its District into a prosperous trade hub. Incoming newcomers native-copy this social and legal charter, and as they mature, the patron clan assists them with resources to expand into adjacent empty hexes. This forms an allied belt of culturally and economically aligned states, building a macro-civilization driven by human intellect rather than developers' code.
+1. **Manual crafting:** From the PDA, anywhere in the world (only primitive torches, bandages).
+2. **Workbench:** Starting tools and low-tier weapons. Requires maximum concentration and time.
+3. **Workshop:** A professional station that automates and speeds up assembly.
+4. **Factory / Plant:** Available only in Private Districts. Operates in a fully autonomous conveyor mode, drawing on the Citadel Warehouse.
 
-© 2026 Sirazhudin Guseynov. All rights reserved. Licensed under Creative Commons BY-NC-ND 4.0.
+### Macro-Logistics and Geopolitical Wars:
+When a trade contract is signed between Districts via the Exchange Terminal in the PDA, the system takes over the delivery of resources. Delivery time is calculated by the formula: `Time = X * N`, where `X` is the base metric between neighbors and `N` is the number of cells traversed.
+
+* **Economic blockade:** if the shortest cargo route passes through a District whose Leader has banned transit for the recipient, the algorithm recalculates the route around it. The number of cells traversed (`N`) increases sharply, extending delivery time and driving up the final cost of the goods — allowing rivals' economies to be strangled bloodlessly.
+
+---
+
+## 🚀 The Evolutionary Vector of the Civilization Fractal
+
+The Live Anyway gameplay loop takes the player through a global evolutionary chain:
+
+```
+[Individual survival (Lone wolf)]
+       ⬇
+[Cooperation and Circle of Trust (Group)]
+       ⬇
+[Building a Frequency Antenna and seizing a node (Settlement)]
+       ⬇
+[Capital accumulation and a procedural phase transition]
+       ⬇
+[Generation of a Private District (hidden "Iron Curtain" mode)]
+       ⬇
+[Installation of a monumental Relay Tower]
+       ⬇
+[Sovereign Open State and expansion into a Macro-Civilization]
+```
+
+Upon reaching the peak, the patron Community enacts attractive laws, turning its District into a thriving hub, welcomes newcomers, helps them expand into neighboring empty cells, and forms a belt of friendly, mentally and economically similar sister-states around itself.
+
+---
+© 2026 Siragudin Guseynov. All rights reserved. Licensed under Creative Commons BY-NC-ND 4.0.
