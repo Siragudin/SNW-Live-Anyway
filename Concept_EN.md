@@ -4,7 +4,10 @@ SNW: LIVE ANYWAY
 
 Concept Document
 
-© 2026 Sirazhudin Guseynov. All rights reserved.
+### © 2026 Siragudin Guseynov. 
+
+All rights reserved.
+
 This document describes the architecture, world, mechanics, and design philosophy of SNW: Live Anyway — a Simulation-Native World in which the digital environment runs independently of the player, and history emerges from player action.
 License: Creative Commons BY-NC-ND 4.0.
 
