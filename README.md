@@ -11,7 +11,7 @@
        style="border-radius: 8px; max-width: 100%;">
 </p>
 
- # **"I am the one who builds the new world."**
+ ### **"I am the one who builds the new world."**
  A radical, hardcore sandbox in the post-apocalyptic survival-simulator genre, built on the principles of **Simulation-Native Worlds (SNW)**. Here the digital environment exists on its own terms, and history is born from the emergent actions of players — free of game-design crutches and linear scripts.
 
 ---
